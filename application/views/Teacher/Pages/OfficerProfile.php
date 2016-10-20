@@ -1,0 +1,1 @@
+<div class="wrapper" style="margin-left:20px">  <div class="main-content">    <?php $this->load->view('Teacher/Component/OfficerProfile'); ?>  </div></div>

@@ -1,0 +1,1 @@
+<div class="main-content">	<?php $this->load->view('Teacher/Component/TableWorkByOfficer'); ?></div>

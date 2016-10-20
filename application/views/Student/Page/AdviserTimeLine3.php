@@ -1,0 +1,1 @@
+<div class="row preview" style="text-align:left;margin-top:5%">  <div class="col-md-12 col-sm-12 ">    <a href="<?php echo base_url()?>index.php/student/adviser/4">      <button type="button" class="btn btn-success btn-block">ทำการบันทึกข้อมูลเรียบร้อย  กลับสู่หน้าหลัก</button>    </a>  </div></div>
